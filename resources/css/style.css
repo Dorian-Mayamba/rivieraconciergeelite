@@ -1,0 +1,51 @@
+body {
+    font-family: 'Inter', sans-serif;
+    background-color: #fafafa;
+}
+nav.navbar {
+    background-color: #fff;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.05);
+}
+.hero {
+    background: url('https://source.unsplash.com/1920x1080/?airbnb,apartment') center/cover;
+    color: white;
+    height: 85vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    position: relative;
+}
+.hero::before {
+    content: "";
+    position: absolute;
+    inset: 0;
+    background: rgba(0,0,0,0.4);
+}
+.hero-content {
+    position: relative;
+    z-index: 2;
+}
+footer {
+    background-color: #fff;
+    padding: 40px 0;
+    border-top: 1px solid #eee;
+}
+
+.whatsapp-float {
+    position: fixed;
+    bottom: 25px;
+    right: 25px;
+    background-color: #25D366;
+    color: white;
+    border-radius: 50%;
+    font-size: 0.8rem;
+    padding: 10px 10px;
+    box-shadow: 0 3px 10px rgba(0,0,0,0.2);
+    z-index: 1000;
+    transition: transform 0.2s ease-in-out;
+}
+.whatsapp-float:hover {
+    transform: scale(1.1);
+    color: white;
+}

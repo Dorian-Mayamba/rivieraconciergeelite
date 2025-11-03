@@ -1,0 +1,25 @@
+section > .text-center > p.text-paragraph{
+    font-size: 1.2rem;
+}
+
+section > .container > .row > .mb-5 > .about-paragraph {
+    font-size: 1.15rem;
+}
+
+.col-md-6 > .rounded{
+    width: 40vw !important; height: 54.5vh !important; object-fit:fill;
+}
+
+@media screen and (min-device-width: 1300px){
+    .col-md-6 > .rounded{
+        width: 40vw !important; height: 43vh !important; object-fit:fill;
+    }
+}
+
+@media screen and (max-device-width: 476px){
+    .col-md-6 > .rounded{
+        width: 100vw !important;
+        height: 50vh !important;
+    }
+}
+
