@@ -1,6 +1,6 @@
 @extends('layouts.app')
 
-@section('title', 'Contact | Airbnb Host Manager')
+@section('title', 'Contact')
 
 @section('content')
 <div class="container py-5 text-center">

@@ -1,6 +1,6 @@
 @extends('layouts.app')
 
-@section('title', 'Accueil | Airbnb Host Manager')
+@section('title', 'Accueil')
 
 @push('extra-css')
     @vite('resources/css/index.css')
