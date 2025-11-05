@@ -48,7 +48,7 @@
 
     <footer class="text-center mt-5">
         <div class="container">
-            <p class="mb-1">© {{ date('Y') }} Conciergerie Airbnb — Tous droits réservés</p>
+            <p class="mb-1">© {{ date('Y') }} Riviera Conciergerie — Tous droits réservés</p>
             <small class="text-muted">Simplifiez la gestion de vos locations saisonnières</small>
         </div>
     </footer>
