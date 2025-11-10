@@ -7,7 +7,7 @@ section > .container > .row > .mb-5 > .about-paragraph {
 }
 
 .col-md-6 > .rounded{
-    width: 40vw !important; height: 54.5vh !important; object-fit:fill;
+    width: 38.55vw !important; height: 54.5vh !important; object-fit:fill;
 }
 
 @media screen and (min-device-width: 1300px){

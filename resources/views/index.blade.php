@@ -62,7 +62,7 @@
     </h2>
     <div class="text-content text-center">
         <p class="mx-5 text-paragraph">
-            Consciergerie offre un accompagnement sur mesure pour la gestion des locations courte durée, <strong>couvrant plusieurs zones autour de Marseille</strong>. Confiez-nous vos biens avec sérénité.
+            Rivieria Conciergerie offre un accompagnement sur mesure pour la gestion des locations courte durée, <strong>couvrant plusieurs zones autour de Marseille</strong>. Confiez-nous vos biens avec sérénité.
         </p>
         <div class="container">
             <div class="row g-4">
