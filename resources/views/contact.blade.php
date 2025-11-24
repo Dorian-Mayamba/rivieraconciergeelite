@@ -6,7 +6,7 @@
 <div class="container py-5 text-center">
     <h1 class="fw-bold mb-4">Contactez-nous</h1>
     <p class="lead mb-3">Besoin d’un partenaire fiable pour gérer vos locations de logements ?</p>
-    <p class="fs-4 fw-semibold text-primary">📞 +33 6 12 34 56 78</p>
+    <p class="fs-4 fw-semibold text-primary">📞 +33 7 62 48 83 14</p>
     <p class="text-muted mt-3">Disponible 7j/7 pour les hôtes et voyageurs</p>
     <a href="https://wa.me/33612345678" target="_blank" class="btn btn-outline-success d-inline-flex align-items-center">
         <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-whatsapp" viewBox="0 0 16 16">
