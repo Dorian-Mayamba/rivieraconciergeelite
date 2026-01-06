@@ -111,7 +111,7 @@
                 <a href="{{ route('contact') }}" class="btn btn-danger rounded-pill px-4">En savoir plus</a>
             </div>
             <div class="col-md-6 mb-4 mb-md-0">
-                <img src="{{ asset('image0.jpeg') }}" class="img-fluid rounded shadow"  alt="Notre équipe">
+                <img src="{{ asset('rivieraconscierie-logo.JPEG') }}" class="img-fluid rounded shadow"  alt="Notre équipe">
             </div>
         </div>
     </div>
